@@ -19,4 +19,4 @@ src_compile() {
 	cygmake
 }
 
-MAKEOPTS+=" bin_PROGRAMS= bin_SCRIPTS= man_MANS= "
+MAKEOPTS+=" bin_SCRIPTS= man_MANS= "
